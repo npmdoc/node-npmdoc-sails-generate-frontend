@@ -1,4 +1,7 @@
-# api documentation for  sails-generate-frontend (v0.12.3)  [![npm package](https://img.shields.io/npm/v/npmdoc-sails-generate-frontend.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sails-generate-frontend) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sails-generate-frontend.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sails-generate-frontend)
+# npmdoc-sails-generate-frontend
+
+#### basic api documentation for  sails-generate-frontend (v0.12.3)  [![npm package](https://img.shields.io/npm/v/npmdoc-sails-generate-frontend.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sails-generate-frontend) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sails-generate-frontend.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sails-generate-frontend)
+
 #### Default generator for frontend code files in new Sails projects. Creates the default contents of the `assets/` folder when you run `sails new` on the command-line.  Also creates a subset of the boilerplate Grunt task files (in `tasks/`); specifically, the
 
 [![NPM](https://nodei.co/npm/sails-generate-frontend.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sails-generate-frontend)
@@ -65,7 +68,8 @@
     "scripts": {
         "test": "mocha"
     },
-    "version": "0.12.3"
+    "version": "0.12.3",
+    "bin": {}
 }
 ```
 
